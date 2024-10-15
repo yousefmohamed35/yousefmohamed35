@@ -4,6 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=yousefmohamed35&label=Profile%20views&color=0e75b6&style=flat" alt="yousefmohamed35" />
 </p>
 
+ <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark&no-frame=true&column=8&row=1" alt="GitHub Trophies">
+
 <p >
   I'm currently learning Flutter and passionate about mobile app development.
 </p>
