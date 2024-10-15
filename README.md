@@ -3,7 +3,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=yousefmohamed35&label=Profile%20views&color=0e75b6&style=flat" alt="yousefmohamed35" />
 </p>
-
  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark&no-frame=true&column=8&row=1" alt="GitHub Trophies">
 
 <p >
@@ -41,15 +40,38 @@
 
 
 ---
-<p>
+<table align="center">
+  <tr>
+    <td>
+      <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefmohamed35&layout=compact&langs_count=8&theme=light" alt="yousefmohamed35's Most Used Languages" />
 </p>
-<p align="right">
+    </td>
+     <td>
+      
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=yousefmohamed35&show_icons=true&locale=en" alt="yousefmohamed35" />
 </p>
-<p ">
+    </td>
+   
+  </tr>
+  <tr>
+    <td>
+      <p >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-github-username&theme=github_dark" alt="GitHub Summary Stats">
+</p>
+    </td>
+    <td>
+      <p ">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefmohamed35&" alt="yousefmohamed35" />
 </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 
