@@ -63,8 +63,7 @@
     </td>
     <td>
     <p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefmohamed35&theme=dark" alt="GitHub Streak" />
-
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefmohamed35&theme=dark" alt="GitHub Streak" >
       </p>
     </td>
 
