@@ -62,9 +62,10 @@
 </p>
     </td>
     <td>
-      <p >
+    <del>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefmohamed35&" alt="yousefmohamed35" />
-</p>
+</del>
+
     </td>
   </tr>
 </table>
