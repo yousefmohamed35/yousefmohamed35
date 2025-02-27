@@ -63,7 +63,7 @@
     </td>
     <td>
     <p>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yousefmohamed35&theme=dark"/></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yousefmohamed35&theme=dark&hide_border=true"  /></a>
       </p>
     </td>
 
