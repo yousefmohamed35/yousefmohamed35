@@ -63,7 +63,7 @@
     </td>
     <td>
     <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefmohamed35&" alt="yousefmohamed35" />
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yousefmohamed35&theme=dark)
       </p>
     </td>
 
