@@ -62,9 +62,9 @@
 </p>
     </td>
     <td>
-    <del>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefmohamed35&" alt="yousefmohamed35" />
-</del>
+
 
     </td>
   </tr>
